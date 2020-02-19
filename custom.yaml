@@ -1,3 +1,4 @@
-- DOMAIN-KEYWORD,rz10086,DIRECT
-- DOMAIN-KEYWORD,inoreader,Proxy
-
+- DOMAIN-SUFFIX,inoreader.com,Proxy
+- DOMAIN-SUFFIX,sis001.com,Proxy
+- DOMAIN-SUFFIX,jable.tv,Proxy
+- DOMAIN-SUFFIX,t6k.co,Proxy
