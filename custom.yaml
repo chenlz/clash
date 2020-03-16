@@ -3,6 +3,7 @@
 - DOMAIN-SUFFIX,dxomark.com,Proxy
 - DOMAIN-SUFFIX,dlercloud.com,Proxy
 - DOMAIN-SUFFIX,dler.cloud,Proxy
+- DOMAIN-SUFFIX,blizzard.com,Proxy
 
 - DOMAIN-SUFFIX,sis001.com,Proxy
 - DOMAIN-SUFFIX,jable.tv,Proxy
@@ -13,7 +14,6 @@
 
 - DOMAIN-SUFFIX,178.com,Domestic
 - DOMAIN-SUFFIX,.cn,Domestic
-
 
 - DOMAIN-KEYWORD,douyu,Domestic
 
