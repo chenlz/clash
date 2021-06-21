@@ -1,22 +1,15 @@
-- DOMAIN-SUFFIX,inoreader.com,Proxy
-- DOMAIN-SUFFIX,maying.co,Proxy
-- DOMAIN-SUFFIX,dxomark.com,Proxy
-- DOMAIN-SUFFIX,dlercloud.com,Proxy
-- DOMAIN-SUFFIX,dler.cloud,Proxy
-
-
-- DOMAIN-SUFFIX,sis001.com,Proxy
-- DOMAIN-SUFFIX,jable.tv,Proxy
-- DOMAIN-SUFFIX,t6k.co,Proxy
-- DOMAIN-SUFFIX,screenshottop1.com,Proxy
-- DOMAIN-SUFFIX,touimg.com,Proxy
-- DOMAIN-SUFFIX,wonderfulday28.live,Proxy
-
-- DOMAIN-SUFFIX,178.com,Domestic
-- DOMAIN-SUFFIX,.cn,Domestic
-- DOMAIN-SUFFIX,v2ex.com,Domestic
-- DOMAIN-SUFFIX,v2ex.co,Domestic
-
-- DOMAIN-KEYWORD,douyu,Domestic
-
-
+- name: 🇭🇰 HKG 16
+    type: ss
+    server: 85b66462.immnodes.com
+    port: "11016"
+    cipher: chacha20-ietf
+    password: 25f1093328b9a174
+    udp: true
+    plugin: obfs
+    plugin-opts:
+      mode: http
+      host: 0d48aa56d8.microsoft.com
+ - name: 🎬 Emby
+    type: select
+    proxies:
+      - 🇭🇰 HKG 16
